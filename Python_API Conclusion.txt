@@ -1,0 +1,13 @@
+In this homework we are trying to see what the correlation between the latitude and weather is.
+We got the data from the open weather maps web base and downloaded the latitude, temperature, humidity, cloudiness, and wind speed for 500 random cities.
+
+From the temperate graph we can see that cities between the latitudes -20 to +40 have a higher temperature than other cities.
+
+From the humidity graph we can see that humidity is average in all parts but it is lowest between latitudes 15 to 40
+
+The cloudiness graph is showing that there are more clouds between the latitudes -20 and 20, and 60-80 than in other parts of the world.
+
+The wind speed graph is showing some more powerful winds between the latitudes -40 and -20, and 40 to 60.
+
+This project was done for one day and limited to little bit over 500 cities.  
+In order to make any meaningful conclusion we will need much more weather data and include more cities.
